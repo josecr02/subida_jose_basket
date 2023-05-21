@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura2_Core", "Aura2_Core.csproj", "{c6dae96e-7f43-ac84-0659-d441328cda85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{aa392e20-5afc-cb6d-97c6-0a92c5101187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura2_Editor", "Aura2_Editor.csproj", "{0eae8de1-1019-ff75-0358-6d386de15774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{c6dae96e-7f43-ac84-0659-d441328cda85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c6dae96e-7f43-ac84-0659-d441328cda85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{aa392e20-5afc-cb6d-97c6-0a92c5101187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{aa392e20-5afc-cb6d-97c6-0a92c5101187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0eae8de1-1019-ff75-0358-6d386de15774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0eae8de1-1019-ff75-0358-6d386de15774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
